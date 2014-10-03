@@ -1,0 +1,14 @@
+So for the past few days I have been looking around for a few good internships and most of the places I try to apply for, the ask for either my Github account or a personal website. I was not aware that putting my work out there is a good idea. 
+
+So I decided to install git on my computer. As I already knew my way around SVN and CVS, getting git was not very tough. But for anyone who is using Mac OS X, and dont want to install Xcode but still want git on you computer, then open you terminal(I am assuming you know how to do that, duh!) just run the command below
+
+$ alias git="/usr/local/git/bin/git"
+
+
+This will save you about 3GB of space(if space is a constrain). 
+
+I just thought putting this up would reduce your work. 
+
+Have a wonderful time :)
+Happy Coding :p
+
