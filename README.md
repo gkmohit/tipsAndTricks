@@ -10,5 +10,3 @@ Xcode and save your hard disk space.
 colourForMacTerminal.sh is a simple script that will make your terminal just like
 Ubuntu, i.e this script will help you seperate the directories from other files
 with a different colour.
-
-
